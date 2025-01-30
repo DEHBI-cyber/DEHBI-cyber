@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello, I'm DEHBI Siham👋
+<a href="https://linkedin.com/in/siham-dehbi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a Junior State Cybersecurity Engineer, graduated from the National Institute of Posts and Telecommunications in Morocco. I am interested in all aspects of cybersecurity and I am seeking opportunities to grow, learn, and make an impact in this field.
 
 <!--
 **DEHBI-cyber/DEHBI-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
